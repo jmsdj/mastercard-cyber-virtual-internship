@@ -1,0 +1,45 @@
+The phishing simulation was designed to test how employees respond to suspicious emails. 
+
+**Two drafts were created:**
+
+**Initial Phishing Email** – poorly formatted, generic wording, and an untrustworthy sender address.
+
+**Improved Phishing Email** – more professional, contextual, and believable to increase the likelihood of engagement.
+
+The improved version aimed to replicate how real attackers craft convincing phishing messages.
+
+---
+
+
+**Email Drafts**
+
+*Obvious Fake*
+- Sender: mastercardsIT@gmail.com
+- Generic greeting (“Dear User”)
+- Poor grammar and formatting
+- Suspicious link ([Wikipedia phishing page])
+- Lacks confidentiality notice
+
+
+*Improved Phishing Email*
+
+- Sender: “Mastercard IT Department”
+- Personalized greeting (“Dear [Employee Name]”)
+- Clear structure with step-by-step instructions
+- Professional tone, urgency (“reset within the next hour”)
+- Added Confidentiality Notice to mimic real corporate emails
+- Fake IT support email address (support-mastercards@gmail.com) for realism
+
+
+---
+
+
+**Lessons Learned**
+- Professional appearance increases believability
+- Employee awareness is critical
+- Training should include examples of both “obvious” and “advanced” phishing attempts
+
+
+---
+
+*The phishing email drafts illustrate how attackers can escalate from basic to sophisticated tactics. While the “obvious fake” is easy to detect, the improved phishing email I created shows how easily employees could be deceived without proper training. This underscores the need for continuous and comprehensive security awareness programs.*
